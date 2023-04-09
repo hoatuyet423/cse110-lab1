@@ -14,7 +14,7 @@
 2. Phone: *(628)225-56777*
 3. Linkedin: [jennyquach11](https://www.linkedin.com/in/jennyquach11/)
 4. Github: [hoatuyet423](https://github.com/hoatuyet423)
-5. Website: 
+5. Website: [hoatuyet423.github.io](https://hoatuyet423.github.io/cse110-lab1/)
 
 
 ## More about me:
@@ -39,30 +39,30 @@ students in one-on-one teaching and debugging with programming assignment, with 
 
 
 ### Projetcs
-- [X] UCSD Food Review - CodePath [@github](https://github.com/UCSDFoodReview/UCSDFoodReview.git)
+- [X] `UCSD Food Review - CodePath` [@github](https://github.com/UCSDFoodReview/UCSDFoodReview.git)
     - Worked in a team of 4 developers on the development of an iOS application allowing UCSD students to publish reviews and rate different dining halls available on campus using Xcode and Swift
     - Designed a prototype user’s view by using Figma and built the storyboard that allowing users to switch to different dining halls and restaurants view controllers
     - Used Parse as a database to store user accounts, allowing users to manage their information and reviews
 
-- [X] Human Detection – IEEE Quarterly Projects [@github](https://github.com/mickjeon/human_detection_code.git)
+- [X] `Human Detection – IEEE Quarterly Projects` [@github](https://github.com/mickjeon/human_detection_code.git)
     - Worked in a team of 3 to create a wearable device using C++ in Arduino that can detect any human being in range of 6-9 feet by lighting up a LED light to reduce COVID exposure
     - Utilized a thermal sensor to detect humans by comparing the temperature changes in the environment
     - Achieved the best performance project out of 11 teams in Quarterly Project hosted by IEEE
 
-- [X] Twitter Clone - CodePath [@github](https://github.com/hoatuyet423/TwitterClone.git)
+- [X] `Twitter Clone - CodePath` [@github](https://github.com/hoatuyet423/TwitterClone.git)
     - Developed a clone of Twitter using Swift and Xcode by requesting tokens from Twitter APIs
     - Extracted Tweets from Twitter APIs and generated the profile images using Alomofire and CocoaPods
 
-- [X] POP - Missfits (All girls Robotics Team)
+- [X] `POP - Missfits (All girls Robotics Team)`
     - Implemented a GUI using Tkinter framework and Python, that stimulated an interactive game that encouraged at home exercise during the pandemic and became one of the 20 finalists for the FIRST Global Innovation Awards
     - Established the connection between each ESP32 microcontroller by using network protocol MQTT
 
-- [ ] Aflo - Time management website
+- [ ] `Aflo - Time management website`
     - Create an interactive calendar with points system so users can keep track of their productivity
     - Have a timer that allow user to time their own study session
     - Pending for more features...
 
-- [ ] CSE 110 Project
+- [ ] `CSE 110 Project`
 
 
 
