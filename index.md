@@ -4,11 +4,11 @@
 
 ## Basic Information
 
-### I'm currently a student at *University of California, San Diego*, majoring in *Mathematics and Computer Science*. I'm looking for **internship** for Summer 2023 and Summer 2024.
+I'm currently a student at **University of California, San Diego, majoring in _Mathematics and Computer Science_**. I'm looking for **internship** for Summer 2023 and Summer 2024.
 
-### My **resume** can be found here: [Tuyet_Hoa_Quach_Resume](/images/Tuyet_Hoa_Quach_Resume.pdf)
+My **resume** can be found here: [Tuyet_Hoa_Quach_Resume](/images/Tuyet_Hoa_Quach_Resume.pdf)
 
-### My **contact information** can be found here:
+My ****contact information**** can be found here:
 
 1. Gmail: hoatuyet423@gmail.com or t1quach@ucsd.edu
 2. Phone: *(628)225-56777*
@@ -21,6 +21,7 @@
 1. [Experience and Leadership Activities](#experience-and-leadership-activities)
 2. [Projects](#projetcs)
 3. [Skills](#skills)
+4. [Outside of Work](#outside-of-work)
 
 ### Experience and Leadership Activities
 
@@ -65,8 +66,6 @@ students in one-on-one teaching and debugging with programming assignment, with 
 - [ ] `CSE 110 Project`
 
 
-
-
 ### Skills
 ```
 Language: Java, Python, C/C++, Swift, LaTeX
@@ -75,3 +74,9 @@ Language: Java, Python, C/C++, Swift, LaTeX
 Tools: Git, JUnit, VS Code, Xcode, Figma, Alomafire, CocoaPods, Tkinter, MQTT, RabbitMQ, Arduino, ESP32, Linux/Unix, Pi cluster
 ```
 
+
+### Outside Of Work
+<sup> beside coding, I also enjoy watching movies and doing DIY. </sup>
+<sub> I also love traveling and connecting with other people </sub>
+
+> Thank you for reading! ~~and please hire me~~
